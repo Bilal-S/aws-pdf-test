@@ -1,0 +1,24 @@
+npm{
+  "name": "aws-pdf-test",
+  "version": "1.0.0",
+  "description": "Testing AWS Lambda behavior",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilal-S/aws-pdf-test.git"
+  },
+  "author": "Bilal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bilal-S/aws-pdf-test/issues"
+  },
+  "homepage": "https://github.com/Bilal-S/aws-pdf-test#readme",
+  "dependencies": {
+    "bee-simple-message": "github:XcooBee/bee-simple-message",
+    "moment": "^2.0.0",
+    "pdfkit": "^0.8.3"
+  }
+}
